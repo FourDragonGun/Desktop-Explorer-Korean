@@ -1,0 +1,7 @@
+# 패치 바이너리는 GitHub Releases로 배포합니다 (레포에는 커밋하지 않음)
+/BepInEx/
+/DesktopExplorer_Data/
+/winhttp.dll
+/doorstop_config.ini
+/.doorstop_version
+*.zip
